@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\migrations\\20250516032241_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\migrations\\20250516032241_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\muscat_international_airport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\muscat_international_airport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|c:\\users\\user pc\\onedrive\\desktop\\makeen.c#\\entity framework core\\muscat_international_airport\\muscat_international_airport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFD4535-08A5-4736-8B29-B894D0B27522}|Muscat_international_airport\\Muscat_international_airport.csproj|solutionrelative:muscat_international_airport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Terminal.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Terminal.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Terminal.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Terminal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:33:38.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Passenger.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Passenger.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:32:43.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Officer.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Officer.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Officer.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Officer.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Officer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:17:27.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Baggage.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Baggage.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Baggage.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Baggage.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Baggage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:36:16.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Checkpoint.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Checkpoint.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:13:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250516032241_first migration.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Migrations\\20250516032241_first migration.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Migrations\\20250516032241_first migration.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Migrations\\20250516032241_first migration.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Migrations\\20250516032241_first migration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:22:43.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:35:07.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Airline.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Airline.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Airline.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Airline.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Airline.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:34:20.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Flight.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Flight.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:15:16.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Gate.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Models\\Gate.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Models\\Gate.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Models\\Gate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:16:49.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Muscat_international_airport.csproj",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Muscat_international_airport.csproj",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Muscat_international_airport.csproj",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Muscat_international_airport.csproj",
+              "RelativeToolTip": "Muscat_international_airport\\Muscat_international_airport.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T04:32:51.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Program.cs",
+              "RelativeDocumentMoniker": "Muscat_international_airport\\Program.cs",
+              "ToolTip": "C:\\Users\\USER PC\\OneDrive\\Desktop\\Makeen.C#\\Entity Framework Core\\Muscat_international_airport\\Muscat_international_airport\\Program.cs",
+              "RelativeToolTip": "Muscat_international_airport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:29:56.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
